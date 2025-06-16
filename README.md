@@ -1,0 +1,3 @@
+Este é um trahalho de conclusão de matéria no qual a entrega se dá pela construção e apresentação de um tradutor.
+
+Inicialmente seria sobre a tradução de TUPI GUARANI, todavia, diantes das dificuldades, acabou sendo utilizado a língua ....
